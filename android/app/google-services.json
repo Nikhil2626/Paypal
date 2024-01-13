@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "558864358860",
+    "firebase_url": "https://fir-ff0f9-default-rtdb.firebaseio.com",
+    "project_id": "fir-ff0f9",
+    "storage_bucket": "fir-ff0f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558864358860:android:af367347a018267a405169",
+        "android_client_info": {
+          "package_name": "com.example.paypal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmdtK12OM6PLV5SZjyJgEPsxUc9inI11k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
