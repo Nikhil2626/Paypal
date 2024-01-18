@@ -10,7 +10,7 @@ import com.google.android.gms.ads.nativead.NativeAd
 import com.google.android.gms.ads.nativead.NativeAdView
 import io.flutter.plugins.googlemobileads.GoogleMobileAdsPlugin
 
-class ListTileNativeAdFactory(val context: Activity) : GoogleMobileAdsPlugin.NativeAdFactory {
+class   ListTileNativeAdFactory(val context: Activity) : GoogleMobileAdsPlugin.NativeAdFactory {
 
     override fun createNativeAd(
         nativeBannerAd: NativeAd,

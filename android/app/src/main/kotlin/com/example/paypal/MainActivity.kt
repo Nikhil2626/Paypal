@@ -12,7 +12,7 @@ class MainActivity: FlutterActivity() {
 
         // TODO: Register the ListTileNativeAdFactory
         GoogleMobileAdsPlugin.registerNativeAdFactory(
-            flutterEngine, "listTile", ListTileNativeAdFactory(context))
+            flutterEngine, "listTile", ListTileNativeAdFactory(this))
     }
     override fun cleanUpFlutterEngine(flutterEngine: FlutterEngine) {
         super.cleanUpFlutterEngine(flutterEngine)

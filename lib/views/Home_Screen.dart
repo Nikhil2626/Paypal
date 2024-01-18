@@ -116,7 +116,7 @@ class _Home_ScreenState extends State<Home_Screen> {
       request: AdRequest(),
       nativeTemplateStyle:
           NativeTemplateStyle(templateType: TemplateType.medium),
-      factoryId: "listTile",
+      // factoryId: "listTile",
       // adUnitId: allData!['NativeAd'],
       adUnitId: "ca-app-pub-3940256099942544/2247696110",
       listener: NativeAdListener(
